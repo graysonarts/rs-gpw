@@ -1,3 +1,5 @@
+// A Rust port of [https://www.multicians.org/thvv/gpw.js]
+
 extern crate ndarray;
 extern crate rand;
 #[macro_use]
