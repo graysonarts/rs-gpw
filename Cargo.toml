@@ -2,6 +2,10 @@
 name = "gpw"
 version = "0.1.0"
 authors = ["Russell Hay <russell.hay@gmail.com>"]
+description = "A prounouncable password generator"
+repository = "https://github.com/RussTheAerialist/rs-gpw"
+documentation = "https://github.com/RussTheAerialist/rs-gpw"
+license = "MIT"
 
 [dependencies]
 ndarray = { version="~0.12", features=[ "serde-1" ] }
